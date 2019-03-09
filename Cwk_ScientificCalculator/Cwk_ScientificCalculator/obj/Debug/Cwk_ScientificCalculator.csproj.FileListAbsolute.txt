@@ -1,0 +1,20 @@
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.exe.config
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.exe
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.pdb
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csprojResolveAssemblyReference.cache
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.frmCalculator.resources
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.Properties.Resources.resources
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csproj.GenerateResource.cache
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.exe
+C:\Users\rywilson\Documents\Degree\Year 1\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.pdb
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.exe.config
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.exe
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\bin\Debug\Cwk_ScientificCalculator.pdb
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csprojResolveAssemblyReference.cache
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.frmCalculator.resources
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.Properties.Resources.resources
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csproj.GenerateResource.cache
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.exe
+C:\Users\rywilson\Documents\Degree\Year 1\Block 0a\DC1020 - Systems Development\Coursework\Cwk_ScientificCalculator\Cwk_ScientificCalculator\obj\Debug\Cwk_ScientificCalculator.pdb
